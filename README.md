@@ -1,16 +1,17 @@
-## Hi there 👋
+# Viniciusgv2
+Olá, me chamo Vinicius
 
-<!--
-**Viniciusgv2/Viniciusgv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu estou no primeiro ano do E.M
 
-Here are some ideas to get you started:
+Moro na cidade de Macaubal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho 15 anos de idade
+
+Gosto de jogar com meus amigos
+
+Minha comida favorita é lasanha
+
+Estou aprendendo linguagem de programação
+
+
+
